@@ -2,6 +2,10 @@
 
 This project focuses on implementing robust authentication functionalities using Express, a popular Node.js web application framework. Authentication is a crucial aspect of web applications, ensuring that only authorized users can access protected resources and perform specific actions.
 
+## Demo Project
+
+https://github.com/princekumarg/Authencation/assets/86905668/20788d93-e46f-4d8a-9a0a-c45e72dacdf0
+
 <img width="530" alt="image" src="https://github.com/princekumarg/Authencation/assets/86905668/d1871b1f-ee8d-41b7-8ada-dac08e77a69d">
 
 <img width="747" alt="image" src="https://github.com/princekumarg/Authencation/assets/86905668/772aac96-371a-4eb2-9841-510ed88df53e">
